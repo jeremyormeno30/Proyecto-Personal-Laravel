@@ -77,7 +77,7 @@
                                 <i class="fas fa-users"></i> Usuario
                             </a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item align-content-sm-end ">
                             <a class="btn btn-primary" href="{{ route('logout') }}">
                                 <i class="fas fa-sign-out-alt"></i> Cerrar Sesion
                             </a>
@@ -92,7 +92,7 @@
     </div>
 
     <footer class="text-center py-3 fixed-bottom">
-        <span>Edited by - Alonso Cuevas & Jeremy Ormeño - <span class="far fa-copyright"></span>
+        <span>Edited by - Jeremy Ormeño - <span class="far fa-copyright"></span>
             2023 All
             rights reserved.</span>
     </footer>
